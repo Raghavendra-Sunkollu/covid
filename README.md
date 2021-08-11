@@ -28,6 +28,7 @@ open any browser and type http://localhost/index.php
 After registering the user you can login to see something like this
 
 
-![Screenshot 2020-12-05 20 55 05](https://user-images.githubusercontent.com/71206184/129034065-9c942029-d387-43df-b9fc-207bb2b5ffa6.png)
+![Screenshot 2021-08-11 19 04 06](https://user-images.githubusercontent.com/71206184/129038590-0e5e43e3-d706-4bec-be5f-912d00e47432.png)
+
 
 
